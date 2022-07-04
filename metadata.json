@@ -1,0 +1,8 @@
+{
+  "name": "desktop task reminder",
+  "description": "tasks on your desktop",
+  "uuid": "desktoptaskreminder@vancha.github.com",
+  "shell-version": [
+    "42"
+  ]
+}
